@@ -1,4 +1,4 @@
-# AuraFlow - Glassmorphic Workspace Optimizer
+# AuraFlow - Workspace Optimizer
 
 AuraFlow is a modern, responsive landing page featuring an interactive task flow workspace built with a high-fidelity glassmorphic aesthetic. It provides a stunning user interface to manage tasks, visualize workflow data dynamically, and seamlessly transition between deep space dark mode and frosted pastel light mode.
 
